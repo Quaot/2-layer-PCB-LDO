@@ -1,0 +1,12 @@
+# Third-party copyrighted material — not for public redistribution
+Datasheets/
+References/
+# WATonomous assignment text (their IP)
+Assignment - Humanoid Onboarding Doc.txt
+# Old named submission archive
+*.zip
+# Excel lock/temp files
+~$*
+# OTHER PEOPLE'S submissions — never publish someone else's personal work
+Sim_Carter_WATonomous_Onboarding_Assignment/
+WATonomous_Onboarding_isabellaphan/
