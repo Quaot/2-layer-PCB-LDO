@@ -1,6 +1,4 @@
 # LM1117 5 V to 3.3 V LDO
-Name: [removed for public repo]
-Email: [removed for public repo]
 Date: 2026-09-20
 Revision: v0.1
 
