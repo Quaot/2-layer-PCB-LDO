@@ -23,7 +23,7 @@ Thus, if input falls below 4.55 V, then it will stop regulating.
 
 # Decision for Resistor 1 to set the output voltage of regulator
 
-The minimum current flowing out of Vout for it to continue regulating is 5 mA, according to pg. 6 of datasheet. 5 mA was used as it is the minimum current that must flow out of Vout in order for it to continue regulating at a range of temp 0–125 °C.
+The minimum current flowing out of Vout for it to continue regulating is 5 mA, according to pg. 6 of the LM1117 datasheet. 5 mA was used as it is the minimum current that must flow out of Vout in order for it to continue regulating at a range of temp 0–125 °C.
 
 The other value given for minimum current was 1.7 mA at a range of 25 °C (typical temperature)
 Naturally, a regulator will create heat, so a minimum current designed around room temp will not suffice. Also 1.7 mA is a TYP value, where 5 mA is the max and is guaranteed for every chip.
